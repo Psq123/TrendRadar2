@@ -140,7 +140,10 @@ rss:
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
-
+    - id: "sspai"
+      name: "少数派"
+      url: "https://sspai.com/feed"
+      max_age_days: 2
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
